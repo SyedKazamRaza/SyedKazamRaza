@@ -2,7 +2,7 @@
 
 <img src="https://firebasestorage.googleapis.com/v0/b/imagegallery-653be.appspot.com/o/photos%2Fback1.jfif?alt=media&token=1fb115b7-d8bb-4a24-a7c2-3f0ad3776a7d" alt="background" title="background" />
 
-## Hi there! 👋
+## About me
 I'm Kazim Raza, a fullstack engineer, passionate about learning the latest and greatest technologies. I am an engineer who loves to solve problems and use the best tool for the problem.
 
 ## 🔭Currently in love with:
@@ -23,5 +23,5 @@ I'm Kazim Raza, a fullstack engineer, passionate about learning the latest and g
 <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=1F51FF" alt="Bootstrap" title="Bootstrap" height="25" />
 
 ## 📫Reach me at:
-Email:  syedkazamraza20@gmail.com
+Email:  syedkazamraza20@gmail.com 
 LinkedIn: linkedin.com/in/kazam-raza-a824771a6/ 
