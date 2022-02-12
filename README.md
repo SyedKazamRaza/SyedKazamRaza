@@ -22,6 +22,6 @@ I'm Kazim Raza, a fullstack engineer, passionate about learning the latest and g
 <img src="https://img.shields.io/badge/Flask-282C34?logo=flask" alt="Flask logo" title="Flask" height="25" />
 <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=1F51FF" alt="Bootstrap" title="Bootstrap" height="25" />
 
- ## 📫Reach me at:
- Email:  syedkazamraza20@gmail.com 
- LinkedIn: linkedin.com/in/kazam-raza-a824771a6/ 
+## 📫Reach me at:
+Email:  syedkazamraza20@gmail.com
+LinkedIn: linkedin.com/in/kazam-raza-a824771a6/ 
